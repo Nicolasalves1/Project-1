@@ -1,0 +1,15 @@
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\bin\Debug\net8.0\RepetitionStatements.exe
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\bin\Debug\net8.0\RepetitionStatements.deps.json
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\bin\Debug\net8.0\RepetitionStatements.runtimeconfig.json
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\bin\Debug\net8.0\RepetitionStatements.dll
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\bin\Debug\net8.0\RepetitionStatements.pdb
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\obj\Debug\net8.0\RepetitionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\obj\Debug\net8.0\RepetitionStatements.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\obj\Debug\net8.0\RepetitionStatements.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\obj\Debug\net8.0\RepetitionStatements.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\obj\Debug\net8.0\RepetitionStatements.sourcelink.json
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\obj\Debug\net8.0\RepetitionStatements.dll
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\obj\Debug\net8.0\refint\RepetitionStatements.dll
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\obj\Debug\net8.0\RepetitionStatements.pdb
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\obj\Debug\net8.0\RepetitionStatements.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\RepetitionStatements\obj\Debug\net8.0\ref\RepetitionStatements.dll

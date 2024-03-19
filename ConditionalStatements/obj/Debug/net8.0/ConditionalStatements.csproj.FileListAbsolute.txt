@@ -1,0 +1,15 @@
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\bin\Debug\net8.0\ConditionalStatements.exe
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\bin\Debug\net8.0\ConditionalStatements.deps.json
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\bin\Debug\net8.0\ConditionalStatements.runtimeconfig.json
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\bin\Debug\net8.0\ConditionalStatements.dll
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\bin\Debug\net8.0\ConditionalStatements.pdb
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.sourcelink.json
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.dll
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\obj\Debug\net8.0\refint\ConditionalStatements.dll
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.pdb
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\obj\Debug\net8.0\ConditionalStatements.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Ambiente de Trabalho\Projetos\ConditionalStatements\obj\Debug\net8.0\ref\ConditionalStatements.dll
