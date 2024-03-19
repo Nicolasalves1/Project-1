@@ -1,0 +1,14 @@
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\bin\Debug\net8.0\Beggining of the study.exe
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\bin\Debug\net8.0\Beggining of the study.deps.json
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\bin\Debug\net8.0\Beggining of the study.runtimeconfig.json
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\bin\Debug\net8.0\Beggining of the study.dll
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\bin\Debug\net8.0\Beggining of the study.pdb
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\obj\Debug\net8.0\Beggining of the study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\obj\Debug\net8.0\Beggining of the study.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\obj\Debug\net8.0\Beggining of the study.AssemblyInfo.cs
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\obj\Debug\net8.0\Beggining of the study.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\obj\Debug\net8.0\Beggining of the study.dll
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\obj\Debug\net8.0\refint\Beggining of the study.dll
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\obj\Debug\net8.0\Beggining of the study.pdb
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\obj\Debug\net8.0\Beggining of the study.genruntimeconfig.cache
+C:\Users\nicol\source\repos\Beggining of the study\Beggining of the study\obj\Debug\net8.0\ref\Beggining of the study.dll
